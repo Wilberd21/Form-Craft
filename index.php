@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -51,7 +51,7 @@
         <form action="" method="post"><button name="submit" type="submit">View Info</button></form>
     </div>
 
-</body>
+</body> -->
 <div class="final">
     <style>
         #results{
