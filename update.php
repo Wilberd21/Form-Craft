@@ -29,7 +29,7 @@ if ($result->num_rows >0) {
         $password = $row["Password"];
     }
 }
-
+}
 //Create a form that submits data in this same page for the fields and set the input 'value' to the field values
 ?>
 <form action="" method="post">
@@ -58,5 +58,4 @@ if ($result->num_rows >0) {
     <label for="password">Password</label>
     <input type="password" value="<?php echo $password; ?>" name="password">
 </form>
-}
 
